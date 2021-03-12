@@ -1,5 +1,8 @@
 git tests
 1st modified
+<<<<<<< HEAD
 2nd modified
 git end
 git last
+=======
+>>>>>>> Update new_file.txt
