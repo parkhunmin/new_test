@@ -1,8 +1,3 @@
-git tests
-1st modified
-<<<<<<< HEAD
-2nd modified
-git end
-git last
-=======
->>>>>>> Update new_file.txt
+all change
+start rebase
+why this happen?
