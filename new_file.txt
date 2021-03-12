@@ -1,2 +1,3 @@
 git tests
-first modified2
+first modified
+second modified
